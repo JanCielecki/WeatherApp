@@ -1,0 +1,13 @@
+# Pliki wygenerowane przez Python
+__pycache__/
+*.pyc
+
+# Środowisko wirtualne
+venv/
+
+# Plik z kluczami API lub danymi konfiguracyjnymi
+.env
+
+# Konfiguracje IDE (PyCharm, VSCode)
+.idea/
+.vscode/
